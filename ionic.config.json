@@ -1,0 +1,7 @@
+{
+  "name": "ion-date-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
